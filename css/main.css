@@ -1,0 +1,145 @@
+
+body {
+	/* [disabled]text-align: center; */
+	
+	
+	background-image:url(../images/pagina/fonve.jpg);
+
+
+	background-color: #FFF;
+	
+}
+.prueba{
+	background-image:url(../images/pagina/bm.jpg);
+	background-repeat:repeat-x;
+	}
+.centro{
+	 	background-color:#FFF;
+	 border-radius: 15px;
+	
+	font-size: 17px;
+
+
+
+}
+.navbar{
+	background-image:url(../images/pagina/fona.jpg);
+	/*background-color:teal; */
+	border: 0px;
+	
+	/*background-image:url(../images/pagina/fon8.jpg);*/
+
+}
+.btn,
+.btn:hover,
+.btn:active{
+	background:gray;
+}
+
+
+.well2{
+	margin-left:34px;
+
+}
+.logo{
+		border-radius: 3px;
+		margin-top:8px;
+		float:right;
+	}
+
+.centroindex
+{
+	padding-left:50px;
+	
+}
+
+
+	
+.centrar{
+	 display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.foto{
+	border-radius: 7px;
+	border:1px solid black;
+	
+	
+	}
+	
+
+.contact{
+        margin-top:0px;
+        font-weight:bold;
+        line-height:30px;
+        height:300px;
+        margin-bottom:30px
+}
+.lista {
+    border-width:1px;
+    border-color:#1A6C8C;
+    border-style:solid none;
+    
+}
+
+.ficha{
+        font-size:12px;
+        line-height:27px;
+
+}
+.sec
+{
+        color:#1A6C8C;
+        font-weight:bold;
+
+
+}
+.date
+{
+        color:#970000;
+        font-weight:bold;	
+}
+
+	
+.normal
+{
+  width: 100%;
+  border: 1px solid #999999;
+  border-collapse: collapse; 
+}
+.normal2
+{
+
+  border: 1px solid #999999;
+  border-collapse: collapse; 
+}
+.espacio
+{
+	 width: 50%;
+}
+.normal th, .normal td 
+{
+  border: 1px solid #999999;
+  padding:10px;
+  font-size:12px;
+
+}
+
+.lote {
+
+    background-image:url(../images/lote.png);
+  	height:250px;
+  	width:250px;
+    }
+.lote:hover {
+
+    background-image:url(../images/loteHover.png);
+		height:250px;
+  width:250px;
+    }
+	
+	.oscuro
+	{
+		color:#333333;
+	}
